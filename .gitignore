@@ -1,0 +1,12 @@
+*.bps
+*.cdl
+*.dbg
+*.exe
+*.ips
+*.nes
+*.xdelta
+*.zip
+.vs
+/build
+/release
+/-p
