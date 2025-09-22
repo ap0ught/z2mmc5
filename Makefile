@@ -45,6 +45,6 @@ $(ROM_NAME): $(CFG_NAME) $(O_FILES)
 	ld65 -vm -m $(BUILDDIR)/map.txt -Ln $(BUILDDIR)/labels.txt --dbgfile $(DBG_NAME) -o $@ -C $^
 
 $(BUILDDIR)/%.o: $(SRCDIR)/%.s
-	echo .define SRC_ROM "$(value SRC_ROM)" > $(BUILD_INC_PATH)
+	echo '.define SRC_ROM "$(value SRC_ROM)"' > $(BUILD_INC_PATH)
 	
 	ca65 -g -I "$(BUILDDIR)" -o $@ $<
