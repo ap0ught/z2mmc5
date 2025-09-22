@@ -29,7 +29,7 @@ This document provides technical details for developers working on the Z2MMC5 pr
 
 3. **Source ROM**
    - Place `Zelda II - The Adventure of Link (USA).nes` in project root
-   - Verify MD5: `d0690f3b2b1d80bcd0c616fbfdfm28ce`
+   - Verify MD5: `d69c44a0c2e6b780b274a74653c38c02`
 
 ### Build System
 
