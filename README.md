@@ -26,7 +26,7 @@ This conversion maintains full compatibility with the original game while unlock
 ### Source ROM
 You need a clean copy of:
 - **Zelda II - The Adventure of Link (USA).nes**
-- MD5: `d0690f3b2b1d80bcd0c616fbfdfm28ce` (verify your ROM)
+- MD5: `d9edc8f2d9963b4bc8d1efb9d8d6f2a2` (verify your ROM)
 
 ### Build Tools
 - **CA65/LD65**: CC65 assembler and linker suite
