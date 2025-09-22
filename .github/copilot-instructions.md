@@ -19,7 +19,7 @@ The build process requires:
 3. xdelta3 for patch creation
 
 ### Basic Build Commands
-NEVER CANCEL: Build completes in under 0.1 seconds. Set timeout to 2+ minutes for safety.
+NEVER CANCEL: Build completes in under 0.1 seconds. Set timeout to 30 seconds for safety.
 ```bash
 # Clean build artifacts
 make clean
