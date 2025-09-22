@@ -99,23 +99,29 @@ Apply patches using tools like:
 ## Compatibility
 
 ### Emulators
-Tested and working on:
-- **Mesen**: Full MMC5 support
-- **FCEUX**: Good MMC5 compatibility
+Should work on emulators with MMC5 support:
+- **Mesen**: Excellent MMC5 implementation
+- **FCEUX**: Good MMC5 support
 - **Nestopia**: Basic MMC5 support
 - **RetroArch/QuickNES**: Limited MMC5 support
 
+*Note: Compatibility has not been extensively tested. Please report any issues.*
+
 ### Flash Carts
-Compatible with:
-- **EverDrive N8**: Full MMC5 support
-- **PowerPak**: Good MMC5 compatibility
-- **Most MMC5-capable flash carts**
+Expected to work on MMC5-capable flash carts:
+- **EverDrive N8**: Has MMC5 support
+- **PowerPak**: Has MMC5 support
+- **Other MMC5-capable flash carts**
+
+*Note: Actual compatibility may vary. Testing needed.*
 
 ### Real Hardware
-Works on original NES/Famicom with MMC5 boards:
+Should work on original NES/Famicom with MMC5 boards:
 - EKROM boards
-- ELROM boards
+- ELROM boards  
 - Custom MMC5 reproductions
+
+*Note: Real hardware testing has not been performed.*
 
 ## Contributing
 
